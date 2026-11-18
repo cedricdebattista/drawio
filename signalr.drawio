@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="JBOsbyhGffbvh39vK4bU">
+    <mxGraphModel dx="1593" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RQyZOvVtYzNx9VGuYskp-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Client" vertex="1">
+          <mxGeometry height="60" width="30" x="390" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RQyZOvVtYzNx9VGuYskp-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Azure" vertex="1">
+          <mxGeometry height="620" width="750" x="39" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="RQyZOvVtYzNx9VGuYskp-1" parent="RQyZOvVtYzNx9VGuYskp-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Azure SignalR Service" vertex="1">
+          <mxGeometry height="60" width="120" x="315" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RQyZOvVtYzNx9VGuYskp-4" parent="RQyZOvVtYzNx9VGuYskp-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Hubs" vertex="1">
+          <mxGeometry height="40" width="120" x="315" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="RQyZOvVtYzNx9VGuYskp-7" parent="RQyZOvVtYzNx9VGuYskp-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Serverless - Azure Functions" vertex="1">
+          <mxGeometry height="30" width="170" x="435" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="RQyZOvVtYzNx9VGuYskp-8" parent="RQyZOvVtYzNx9VGuYskp-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Classic" vertex="1">
+          <mxGeometry height="30" width="60" x="435" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RQyZOvVtYzNx9VGuYskp-11" parent="RQyZOvVtYzNx9VGuYskp-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="https://moneybase-signalr-dev.service.signalr.net&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="280" x="395" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RQyZOvVtYzNx9VGuYskp-12" parent="RQyZOvVtYzNx9VGuYskp-3" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="RabbitMQ" vertex="1">
+          <mxGeometry height="40" width="120" x="315" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="RQyZOvVtYzNx9VGuYskp-6" edge="1" parent="1" source="RQyZOvVtYzNx9VGuYskp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RQyZOvVtYzNx9VGuYskp-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="220" />
+              <mxPoint x="414" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RQyZOvVtYzNx9VGuYskp-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Browser" vertex="1">
+          <mxGeometry height="90" width="150" x="339" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RQyZOvVtYzNx9VGuYskp-10" edge="1" parent="1" source="RQyZOvVtYzNx9VGuYskp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="RQyZOvVtYzNx9VGuYskp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RQyZOvVtYzNx9VGuYskp-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CLOUDFLARE&lt;div&gt;CNAME&lt;/div&gt;&lt;div&gt;https://signalr-dev.moneybase.com&lt;br&gt;&lt;div&gt;https://moneybase-signalr-dev.service.signalr.net&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="274" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

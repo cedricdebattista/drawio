@@ -1,0 +1,225 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="_vVCoOG_Wgwb8wCCBQUu">
+    <mxGraphModel dx="1986" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hctwp_tul02pdf02dkHs-4" edge="1" parent="1" source="Hctwp_tul02pdf02dkHs-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="Hctwp_tul02pdf02dkHs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-5" edge="1" parent="1" source="Hctwp_tul02pdf02dkHs-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;" target="Hctwp_tul02pdf02dkHs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="Customer" vertex="1">
+          <mxGeometry height="60" width="30" x="110" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-58" edge="1" parent="1" source="Hctwp_tul02pdf02dkHs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="Hctwp_tul02pdf02dkHs-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Native" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Web" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Native REPORTS" vertex="1">
+          <mxGeometry height="40" width="80" x="600" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-11" edge="1" parent="1" source="Hctwp_tul02pdf02dkHs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="Hctwp_tul02pdf02dkHs-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="REPORTS" vertex="1">
+          <mxGeometry height="40" width="90" x="420" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-12" edge="1" parent="1" source="Hctwp_tul02pdf02dkHs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="Hctwp_tul02pdf02dkHs-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440.5" y="230" />
+              <mxPoint x="640" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-40" edge="1" parent="1" source="Hctwp_tul02pdf02dkHs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="Hctwp_tul02pdf02dkHs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Reports Web View" vertex="1">
+          <mxGeometry height="40" width="99" x="391" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-14" edge="1" parent="1" source="Hctwp_tul02pdf02dkHs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="Hctwp_tul02pdf02dkHs-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FS.Reporting.API" vertex="1">
+          <mxGeometry height="40" width="120" x="560" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-16" edge="1" parent="1" source="Hctwp_tul02pdf02dkHs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="Hctwp_tul02pdf02dkHs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-19" edge="1" parent="1" source="Hctwp_tul02pdf02dkHs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="Hctwp_tul02pdf02dkHs-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-28" edge="1" parent="1" source="Hctwp_tul02pdf02dkHs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="Hctwp_tul02pdf02dkHs-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="if PerfReport" vertex="1">
+          <mxGeometry height="80" width="80" x="580" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-15" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;" value="DataFabric" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-17" edge="1" parent="1" source="Hctwp_tul02pdf02dkHs-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.301;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="Hctwp_tul02pdf02dkHs-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="480" />
+              <mxPoint x="604.1" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="stream" vertex="1">
+          <mxGeometry height="30" width="60" x="640" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="202" vertex="1">
+          <mxGeometry height="30" width="60" x="660" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-24" edge="1" parent="1" source="Hctwp_tul02pdf02dkHs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="Hctwp_tul02pdf02dkHs-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Daemon" vertex="1">
+          <mxGeometry height="60" width="120" x="590" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-23" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="report" vertex="1">
+          <mxGeometry height="60" width="120" x="405" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-25" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="EMAIL/PUSH" vertex="1">
+          <mxGeometry height="100" width="80" x="170" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-26" edge="1" parent="1" source="Hctwp_tul02pdf02dkHs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.426;entryY=0.973;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="Hctwp_tul02pdf02dkHs-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="RDLC" vertex="1">
+          <mxGeometry height="30" width="60" x="710" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="610" y="330" as="sourcePoint" />
+            <mxPoint x="660" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-30" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;fillColor=#f8cecc;strokeColor=#b85450;" value="MISSING">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="670" as="sourcePoint" />
+            <mxPoint x="200" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-31" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" target="Hctwp_tul02pdf02dkHs-20" value="MISSING EXCL">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="790" y="520" as="sourcePoint" />
+            <mxPoint x="860.0000000000002" y="430.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-32" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="690" y="220" as="sourcePoint" />
+            <mxPoint x="500" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Add Perf Report + Params + WireUP" vertex="1">
+          <mxGeometry height="30" width="110" x="680" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-34" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="710" y="330" as="sourcePoint" />
+            <mxPoint x="520" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Add Perf Report + Params + WireUP" vertex="1">
+          <mxGeometry height="30" width="60" x="710" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-41" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="10" y="400" as="sourcePoint" />
+            <mxPoint x="780" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-59" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;fillColor=#f8cecc;strokeColor=#b85450;" value="VALIDATE ACCESSTOKEN">
+          <mxGeometry height="50" relative="1" width="50" x="1" y="-71" as="geometry">
+            <mxPoint x="20" y="-40" as="offset" />
+            <mxPoint x="300" y="500" as="sourcePoint" />
+            <mxPoint x="350" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-61" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;fillColor=#ffe6cc;strokeColor=#d79b00;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="750" y="90" as="sourcePoint" />
+            <mxPoint x="690" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="push Notif" vertex="1">
+          <mxGeometry height="30" width="80" x="740" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DeepLink" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Send Email&lt;div&gt;Exclude Stream content&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="11" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-66" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="List" vertex="1">
+          <mxGeometry height="120" width="140" x="395" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-67" parent="Hctwp_tul02pdf02dkHs-66" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="url" vertex="1">
+          <mxGeometry height="30" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-68" parent="Hctwp_tul02pdf02dkHs-66" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Item 2" vertex="1">
+          <mxGeometry height="30" width="140" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-69" parent="Hctwp_tul02pdf02dkHs-66" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Item 3" vertex="1">
+          <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-70" edge="1" parent="1" source="Hctwp_tul02pdf02dkHs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.981;entryY=0.103;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="Hctwp_tul02pdf02dkHs-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="752.4" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-72" edge="1" parent="1" source="Hctwp_tul02pdf02dkHs-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="Hctwp_tul02pdf02dkHs-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="70" />
+              <mxPoint x="100" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-71" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="DL" vertex="1">
+          <mxGeometry height="100" width="80" x="-140" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-73" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Performance Report" vertex="1">
+          <mxGeometry height="250" width="350" x="-610" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-74" parent="Hctwp_tul02pdf02dkHs-73" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Period:" vertex="1">
+          <mxGeometry height="30" width="80" x="20" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-75" parent="Hctwp_tul02pdf02dkHs-73" style="rounded=0;whiteSpace=wrap;html=1;" value="up to 1yr max" vertex="1">
+          <mxGeometry height="20" width="120" x="116" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-76" parent="Hctwp_tul02pdf02dkHs-73" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Create Report" vertex="1">
+          <mxGeometry height="40" width="120" x="115" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-79" parent="Hctwp_tul02pdf02dkHs-73" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Valuation Curr:" vertex="1">
+          <mxGeometry height="30" width="90" x="20" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-80" parent="Hctwp_tul02pdf02dkHs-73" style="rounded=0;whiteSpace=wrap;html=1;" value="EUR/USD/GBP" vertex="1">
+          <mxGeometry height="20" width="120" x="115" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="month quarter + Year to date" vertex="1">
+          <mxGeometry height="30" width="80" x="-360" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Hctwp_tul02pdf02dkHs-83" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=20;position=0.58;" value="Everyone can generate" vertex="1">
+          <mxGeometry height="60" width="120" x="-330" y="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
